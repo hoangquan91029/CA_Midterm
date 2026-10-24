@@ -1,0 +1,6 @@
+{
+  "name": "CA Midterm Hub — Ôn Thi Kiến Trúc Máy Tính",
+  "description": "Nền tảng ôn thi Giữa kỳ Kiến trúc Máy tính (Computer Architecture IT089IU / CO2007) tích hợp Sơ đồ tư duy NotebookLM, Mô phỏng trực quan hóa tương tác (CPU Performance, MIPS Simulator, IEEE 754, Datapath & Pipeline, Cache Mapping) và Ngân hàng Đề thi & Quiz có lời giải chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
